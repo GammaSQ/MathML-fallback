@@ -1,0 +1,170 @@
+
+@font-face {
+font-family: MathJax_Main;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/HTML-CSS/TeX/woff/MathJax_Main-Regular.woff?raw=true')
+  format('woff')
+  , 
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Main-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Main;
+font-weight: bold;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Main-Bold.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Main-Bold.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Main;
+font-style: italic;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Main-Italic.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Main-Italic.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Math;
+font-style: italic;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Math-Italic.woff')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Math-Italic.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Caligraphic;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Caligraphic-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Caligraphic-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Size1;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Size1-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Size1-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Size2;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Size2-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Size2-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Size3;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Size3-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Size3-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: MathJax_Size4;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/woff/MathJax_Size4-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/TeX/otf/MathJax_Size4-Regular.otf?raw=true')
+  format('opentype')
+}
+
+@font-face {
+font-family: STIX_Main;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Main-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Main-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Main;
+font-weight: bold;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Main-Bold.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Main-Bold.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Main;
+font-style: italic;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Main-Italic.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Main-Italic.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Math;
+font-style: italic;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Math-Italic.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Math-Italic.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Caligraphic;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Caligraphic-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Caligraphic-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Operators;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Operators-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Operators-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Symbols;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Symbols-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Symbols-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Script;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Script-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Script-Regular.otf?raw=true')
+  format('opentype')
+}
+@font-face {
+font-family: STIX_Size4;
+src:
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/woff/STIXMathJax_Size4-Regular.woff?raw=true')
+  format('woff')
+  ,
+  url('https://github.com/GammaSQ/MathML-fallback/blob/master/fonts/STIX-Web/otf/STIXMathJax_Size4-Regular.otf?raw=true')
+  format('opentype')
+}

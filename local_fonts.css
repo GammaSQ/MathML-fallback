@@ -1,0 +1,170 @@
+
+@font-face {
+  font-family: MathJax_Main;
+  src:
+    url('fonts/TeX/woff/MathJax_Main-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Main-Regular.otf')
+    format('opentype')
+  }
+@font-face {
+  font-family: MathJax_Main;
+  font-weight: bold;
+  src:
+    url('fonts/TeX/woff/MathJax_Main-Bold.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Main-Bold.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: MathJax_Main;
+  font-style: italic;
+  src:
+    url('fonts/TeX/woff/MathJax_Main-Italic.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Main-Italic.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: MathJax_Math;
+  font-style: italic;
+  src:
+    url('fonts/TeX/woff/MathJax_Math-Italic.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Math-Italic.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: MathJax_Caligraphic;
+  src:
+    url('fonts/TeX/woff/MathJax_Caligraphic-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Caligraphic-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: MathJax_Size1;
+  src:
+    url('fonts/TeX/woff/MathJax_Size1-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Size1-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: MathJax_Size2;
+  src:
+    url('fonts/TeX/woff/MathJax_Size2-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Size2-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: MathJax_Size3;
+  src:
+    url('fonts/TeX/woff/MathJax_Size3-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Size3-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: MathJax_Size4;
+  src:
+    url('fonts/TeX/woff/MathJax_Size4-Regular.woff?')
+    format('woff')
+    ,
+    url('fonts/TeX/otf/MathJax_Size4-Regular.otf')
+    format('opentype')
+}
+
+@font-face {
+  font-family: STIX_Main;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Main-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Main-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Main;
+  font-weight: bold;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Main-Bold.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Main-Bold.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Main;
+  font-style: italic;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Main-Italic.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Main-Italic.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Math;
+  font-style: italic;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Math-Italic.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Math-Italic.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Caligraphic;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Caligraphic-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Caligraphic-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Operators;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Operators-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Operators-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Symbols;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Symbols-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Symbols-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Script;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Script-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Script-Regular.otf')
+    format('opentype')
+}
+@font-face {
+  font-family: STIX_Size4;
+  src:
+    url('fonts/STIX-Web/woff/STIXMathJax_Size4-Regular.woff')
+    format('woff')
+    ,
+    url('fonts/STIX-Web/otf/STIXMathJax_Size4-Regular.otf')
+    format('opentype')
+}
